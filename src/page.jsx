@@ -42,8 +42,8 @@ export default function Page() {
           src="ourPhoto.jpg"
           alt="Heart"
         />
-        <h1 className="header">ITS A YESSSS, I AM LUCKIEST TO HAVE YOU MERI PYAARI!</h1>
-        <p className="love-message">I hope it made you smilee wideee. Bohat sara pyaaar apky liye.</p>
+        <h1 className="header">ITS A YESSSS!! I AM LUCKIEST TO HAVE YOU MERI PYAARI!</h1>
+        <p className="love-message">I hope it made you smilee wideee. Bohat sara pyaaar apky liye ❤️</p>
       </div>
     ) : (
       <div className="center">
